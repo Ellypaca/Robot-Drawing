@@ -1,7 +1,4 @@
 
-System.out.println("Beep! Boop! Neeko is giant metal person! Kwatz!");
-
-
 size(600, 600);
 
 background(#C1FFE5);
@@ -49,3 +46,6 @@ line(160, 30, 220, 122);//left antennae
 line(420, 30, 360, 122);//right antennae
 circle(160, 30, 13); //tip of left antennae
 circle(420, 30, 13); //tip of right antennae
+
+System.out.println("Beep! Boop! Neeko is giant metal person! Kwatz!");
+
